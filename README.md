@@ -1,9 +1,6 @@
 
 ### Pre-requesties
-Mongo db should be installed on system 
-
-change monngo db port to 27099
-##`mongod --port 27099`
+node should bbe installed on system
 
 ## Available Scripts
 
